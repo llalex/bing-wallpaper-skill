@@ -61,7 +61,7 @@ python scripts/wallpaper.py search --query "太阳" --sort recent --limit 3
 python scripts/wallpaper.py search --query "2026-11-04"
 ```
 
-主题搜索默认返回最多 5 条，`--limit` 可设为 1–10。语义策略下，`--sort recent` 会在相关度相近的结果中优先展示新图；关键词降级按日期倒序。排查时可加 `--verbose` 查看请求状态和耗时。 [API 参数与错误处理](references/api.md)
+主题搜索默认返回最多 5 条，`--limit` 可设为 1–10。语义策略下，`--sort recent` 会在相关度相近的结果中优先展示新图；关键词降级按日期倒序。排查时可加 `--verbose` 查看请求状态和耗时。 [API 参数与错误处理](references/api.zh-CN.md) · [Skill 指令](references/skill.zh-CN.md)
 
 ## 下载与版权
 

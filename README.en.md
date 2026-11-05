@@ -61,7 +61,7 @@ python scripts/wallpaper.py search --query "太阳" --sort recent --limit 3
 python scripts/wallpaper.py search --query "2026-11-04"
 ```
 
-Theme search returns up to five results by default. Set `--limit` to 1–10 to change that. In semantic search, `--sort recent` favors newer results within similar relevance bands. Keyword fallback orders results by date, newest first. Add `--verbose` to see the request status and elapsed time. [API parameters and error handling](references/api.md)
+Theme search returns up to five results by default. Set `--limit` to 1–10 to change that. In semantic search, `--sort recent` favors newer results within similar relevance bands. Keyword fallback orders results by date, newest first. Add `--verbose` to see the request status and elapsed time. [API parameters and error handling](references/api.md) · [Skill instructions](SKILL.md)
 
 ## Downloads and image rights
 

@@ -1,5 +1,7 @@
 # Wallpaper service API
 
+[简体中文](api.zh-CN.md) · English
+
 Service origin: https://bing.plmeizi.com. [Website API documentation](https://bing.plmeizi.com/api-docs).
 
 | Operation | GET path | Query parameters |

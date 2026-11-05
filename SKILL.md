@@ -5,6 +5,8 @@ description: 查询中国区今日和近期必应壁纸，支持按主题或完�
 
 # Bing Wallpaper
 
+[简体中文](references/skill.zh-CN.md) · English
+
 ## Overview (English)
 
 Find today's or recent Bing wallpapers for China, or search the archive by subject or exact date. Use for requests for themed, dated, desktop, phone or 4K Bing wallpapers.
