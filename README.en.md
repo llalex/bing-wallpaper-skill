@@ -33,10 +33,10 @@ gemini skills install https://github.com/llalex/bing-wallpaper-skill.git --scope
 
 [Gemini CLI skill documentation](https://geminicli.com/docs/cli/skills/)
 
-### Install in WorkBuddy
+### Skill marketplaces
 
-- **Skills Market** — Once listed, open **Experts, Skills, and Connectors → Skills → Skills Market**, search for **Bing Wallpaper** (必应壁纸), and click **+**.
-- **Before the listing goes live** — Select **Code → Download ZIP** in this repository. In WorkBuddy, open **Skills → Add Skill → Upload Skill** and upload the ZIP. Check that the skill is enabled, then start a new task. [Official WorkBuddy installation guide](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)
+- **WorkBuddy** lists this skill in its Skills Market. Open **Experts, Skills, and Connectors → Skills → Skills Market**, search for **必应壁纸** (Bing Wallpaper), and click **+** to install. [Official WorkBuddy installation guide](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)
+- **SkillHub.cn** also lists this skill. [Bing Wallpaper skill page](https://skillhub.cn/skills/user_d61e5822/bing-wallpaper-skill)
 
 ## Use
 

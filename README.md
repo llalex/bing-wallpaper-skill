@@ -33,10 +33,10 @@ gemini skills install https://github.com/llalex/bing-wallpaper-skill.git --scope
 
 [Gemini CLI 技能文档](https://geminicli.com/docs/cli/skills/)
 
-### WorkBuddy 官方安装
+### 技能市场
 
-- **技能市场**：上架后，打开「专家·技能·连接器 → 技能 → 技能市场」，搜索「必应壁纸」，点击技能卡片上的 **+** 安装。
-- **上架前**：在本仓库选择 **Code → Download ZIP**。打开 WorkBuddy 的「技能 → 添加技能 → 上传技能」，直接导入 ZIP。安装后确认技能已启用，再新建任务。 [WorkBuddy 官方安装指南](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)
+- **WorkBuddy** 已上架。打开「专家·技能·连接器 → 技能 → 技能市场」，搜索「必应壁纸」，点击技能卡片上的 **+** 安装。 [WorkBuddy 官方安装指南](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market)
+- **SkillHub.cn** 已上架。 [必应壁纸 Skill 页面](https://skillhub.cn/skills/user_d61e5822/bing-wallpaper-skill)
 
 ## 使用
 
